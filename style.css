@@ -1,6 +1,6 @@
 :root {
-    --green: #76a33d;
-    --green-acid: #8ed145;
+    --green: #12a537;
+    --green-acid: #12a537;
     /* Vert plus "néon" pour le style sombre */
     --dark: #0e0e0e;
     --off-white: #e8e8e3;
@@ -103,7 +103,6 @@ ul {
     font-family: var(--font-title);
     font-weight: 800;
     font-size: 1.5rem;
-    mix-blend-mode: difference;
 }
 
 /* --- HERO SECTION --- */
